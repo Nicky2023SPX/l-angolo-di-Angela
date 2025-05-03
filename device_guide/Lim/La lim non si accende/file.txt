@@ -1,2 +1,7 @@
-Controllare la corretta alimentazione. Alcune volte uno dei due tasti, uno presente sulla LIM e uno sul muro, potrebbe non essere premuto. Accertarsi che il pulsante sotto la LIM sia sempre attivo.
+Controllare la corretta alimentazione. 
+
+Alcune volte uno dei due tasti, uno presente sulla LIM e uno sul muro, potrebbe non essere premuto. 
+
+Accertarsi che il pulsante sotto la LIM sia sempre attivo.
+
 Inoltre, verificare i cavi di alimentazione e provare a scollegarli e ricollegarli.
