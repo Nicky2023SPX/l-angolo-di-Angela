@@ -1,1 +1,3 @@
-Blabla
+Quando la connessione via cavo non funziona è meglio scollegare e riattaccare il cavo HDMI da entrambi i poli (sia quello da PC e sia quello sulla lim)
+
+Se così non funzionasse, cliccare sul PC l'icona di Windows e il pulsante P, poi selezionare in basso a destra "Duplica".
