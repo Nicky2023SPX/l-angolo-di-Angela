@@ -1,1 +1,3 @@
-Blabla
+Quando la lim si blocca è meglio spegnerla e riaccenderla.
+
+Se così non funzionasse, cliccare sul tasto sotto la lim per poi cliccarlo di nuovo.
